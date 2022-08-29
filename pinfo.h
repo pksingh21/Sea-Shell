@@ -1,4 +1,5 @@
 #include "headers.h"
+char* getpath(char *cwd,char *root);
 void process_info(char** args,char* root)
 {
 	int pid,memory;

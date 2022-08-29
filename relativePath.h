@@ -1,4 +1,5 @@
 #include "headers.h"
+char* getpath(char *cwd,char *root);
 char* getpath(char* cwd,char* root)
 {
 	int i,cs=strlen(cwd),rs=strlen(root);

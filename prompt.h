@@ -7,5 +7,6 @@ void printPromt(char* root)
 	char* username=getenv("USER");
 	getcwd(cwd,sizeof(cwd));
 	char *path=getpath(cwd,root);
-	printf("%s@%s:%s$ ",username,hostname,path);
+
+	printf("%s@%s:%s \n ",username,hostname,path);
 }
