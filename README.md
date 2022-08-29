@@ -1,9 +1,9 @@
-# SHELL
+#  SEA SHELL
 
 
 ## Instructions to Launch Shell
 
-* Run **make** on your terminal to generate executable called shell
+* Run **make** on your terminal to generate executable called Seashell
 * Execute **shell** to launch the shell
 
 ## Files
@@ -17,11 +17,10 @@
 * pinfo.h contains code about pinfo => user defined command
 * relativePath.h and split.h are used to obtain relative paths and split commands respectively.
 
-
 ## Features
 * Code have Been written in Modular way.
 * multiple commands can be given separed by semi-colons.
-* All the required features including bonus are present in the **shell**
+* All the required features including bonus are present in the **Seashell**
 * Comments are written at proper places.
 
 

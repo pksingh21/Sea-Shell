@@ -1,2 +1,3 @@
 shell: shell.c 
-	gcc -o shell -lreadline shell.c 
+	gcc -o SeaShell -lreadline shell.c 
+
